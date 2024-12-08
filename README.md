@@ -1,0 +1,3 @@
+The Essential Oils website is designed for aromatic oil businesses, offering a visually appealing and professional experience. With a modern interface and a straightforward structure, it provides essential sections such as About Us, Product Catalog, and Contact. The design is enhanced with CSS for an attractive and user-friendly appearance.
+
+The HTML and CSS code is well-organized, making customization and expansion easy. The website helps customers explore various natural essential oils, promoting relaxation and balance. It’s an ideal solution for small businesses looking to establish a strong online presence and connect with potential customers effectively.
